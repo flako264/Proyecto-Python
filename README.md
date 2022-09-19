@@ -23,7 +23,7 @@ La solución al proyecto se realizo en base a los siguientes puntos.
 
 Todos los pasos y puntos realizados se encuentran en el Notebook.
 ## Entregables
-* [Video Presentacion](#)
+* [Video Presentacion](https://www.youtube.com/watch?v=olmw0hTSckM)
 * [Notebook](https://colab.research.google.com/drive/1E8fOJsOZ9_SJPGRffquQSVwHfttUVlA7#scrollTo=-PICckQzVgW-)
 
 ## Tecnologias y Herramientas
@@ -39,3 +39,4 @@ Todos los pasos y puntos realizados se encuentran en el Notebook.
 - *Cesar Andres Vargas Romero*
 - *Moises Alfredo Rubio Camacho*
 - *Fabian Hernandez Garcia*
+- *Federico Velázquez Ortiz*
