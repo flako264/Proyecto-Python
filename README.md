@@ -39,3 +39,4 @@ Todos los pasos y puntos realizados se encuentran en el Notebook.
 - *Cesar Andres Vargas Romero*
 - *Moises Alfredo Rubio Camacho*
 - *Fabian Hernandez Garcia*
+- *Federico Velazquez Ortiz*
